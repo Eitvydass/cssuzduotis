@@ -1,0 +1,59 @@
+*{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+header{
+	background-size: auto;
+	text-align: center;
+	font-size: 3em;
+	
+}
+
+.sentence{
+	border-top-style:double;
+	border-bottom-style: double;
+	text-align: center;
+	font-weight: 700;
+	font-size: 1.3em;
+}
+
+.container{
+	text-align: center;
+	margin: auto;
+}
+
+ .products{
+ 	display: inline-block;
+ 	width: 550px;
+ }
+
+ .work{
+ 	display: inline-block;
+ 	width: 550px;
+ }
+
+ .company{
+ 	display: inline-block;
+ 	width: 550px;
+ }
+
+ .blog{
+ 	display: inline-block;
+ 	width: 550px;
+ }
+
+.footer{
+	text-align: center;
+}
+
+.announcement{
+	display: inline-block;
+}
+ 
+.sentence2{
+	display: inline-block;
+}
+
+
+
+
